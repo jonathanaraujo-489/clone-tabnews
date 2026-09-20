@@ -1,8 +1,8 @@
 function Home() {
   return (
     <div>
-      <h1>Clone TabNews</h1>
-      <p>Bem-vindo ao Clone TabNews!</p>
+      <h1>Formula do Sucesso.</h1>
+     <p>🙏 Deus + 📚 Estudo + 💪 Trabalho Duro - 🤡 Trabalho Burro = 🚀 Sucesso!</p> 
     </div>
   );
 }
